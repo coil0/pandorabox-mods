@@ -1,458 +1,608 @@
 [submodule "available/3d_armor"]
 	path = 3d_armor
 	url = https://github.com/stujones11/minetest-3d_armor.git
+	shallow = true
 [submodule "available/adv_keys"]
 	path = adv_keys
 	url = https://github.com/Lejo1/adv_keys.git
+	shallow = true
 [submodule "available/advtrains"]
 	path = advtrains
 	url = https://github.com/pandorabox-io/advtrains.git
+	shallow = true
 [submodule "available/advtrains_platform"]
 	path = advtrains_platform
 	url = https://github.com/pandorabox-io/advtrains_platform.git
+	shallow = true
 [submodule "available/advtrains_railbus"]
 	path = advtrains_railbus
 	url = https://github.com/mbblp/advtrains_railbus.git
+	shallow = true
 [submodule "available/advtrains_subway_colored"]
 	path = advtrains_subway_colored
 	url = https://github.com/pandorabox-io/advtrains_subway_colored.git
+	shallow = true
 [submodule "available/ambience"]
 	path = ambience
 	url = https://notabug.org/TenPlus1/ambience.git
+	shallow = true
 [submodule "available/anvil"]
 	path = anvil
 	url = https://github.com/minetest-mods/anvil.git
+	shallow = true
 [submodule "available/areas"]
 	path = areas
 	url = https://github.com/minetest-mods/areas.git
+	shallow = true
 [submodule "available/bakedclay"]
 	path = bakedclay
 	url = https://notabug.org/TenPlus1/bakedclay.git
+	shallow = true
 [submodule "available/banners"]
 	path = banners
 	url = https://github.com/pandorabox-io/banners.git
+	shallow = true
 [submodule "available/beacon"]
 	path = beacon
 	url = https://github.com/pandorabox-io/beacon.git
+	shallow = true
 [submodule "available/bedrock"]
 	path = bedrock
 	url = https://github.com/Calinou/bedrock.git
+	shallow = true
 [submodule "available/beerchat"]
 	path = beerchat
 	url = https://github.com/pandorabox-io/beerchat.git
+	shallow = true
 [submodule "available/beerchat_web"]
 	path = beerchat_web
 	url = https://github.com/pandorabox-io/beerchat_web.git
+	shallow = true
 [submodule "available/bike"]
 	path = bike
 	url = https://gitlab.com/h2mm/bike.git
+	shallow = true
 [submodule "available/biofuel"]
 	path = biofuel
 	url = https://github.com/pandorabox-io/Biofuel.git
+	shallow = true
 [submodule "available/biome_lib"]
 	path = biome_lib
 	url = https://github.com/pandorabox-io/biome_lib.git
+	shallow = true
 [submodule "available/bonemeal"]
 	path = bonemeal
 	url = https://notabug.org/TenPlus1/bonemeal.git
+	shallow = true
 [submodule "available/boost_cart"]
 	path = boost_cart
 	url = https://github.com/SmallJoker/boost_cart.git
+	shallow = true
 [submodule "available/bow"]
 	path = bow
 	url = https://github.com/Arcelmi/minetest-bows.git
+	shallow = true
 [submodule "available/bridger"]
 	path = bridger
 	url = https://github.com/v-rob/bridger.git
+	shallow = true
 [submodule "available/canned_food"]
 	path = canned_food
 	url = https://github.com/h-v-smacker/canned_food.git
+	shallow = true
 [submodule "available/castle_gates"]
 	path = castle_gates
 	url = https://github.com/minetest-mods/castle_gates.git
+	shallow = true
 [submodule "available/castle_weapons"]
 	path = castle_weapons
 	url = https://github.com/minetest-mods/castle_weapons.git
+	shallow = true
 [submodule "available/ccompass"]
 	path = ccompass
 	url = https://github.com/minetest-mods/ccompass.git
+	shallow = true
 [submodule "available/charcoal"]
 	path = charcoal
 	url = https://cheapiesystems.com/git/charcoal
 [submodule "available/controls"]
 	path = controls
 	url = https://github.com/Arcelmi/minetest-controls.git
+	shallow = true
 [submodule "available/currency"]
 	path = currency
 	url = https://gitlab.com/VanessaE/currency.git
+	shallow = true
 [submodule "available/datastorage"]
 	path = datastorage
 	url = https://github.com/minetest-technic/datastorage.git
+	shallow = true
 [submodule "available/digilines"]
 	path = digilines
 	url = https://github.com/minetest-mods/digilines.git
+	shallow = true
 [submodule "available/digistuff"]
 	path = digistuff
 	url = https://github.com/pandorabox-io/digistuff.git
+	shallow = true
 [submodule "available/digiterms"]
 	path = digiterms
 	url = https://github.com/pyrollo/digiterms.git
+	shallow = true
 [submodule "available/digtron"]
 	path = digtron
 	url = https://github.com/pandorabox-io/digtron.git
+	shallow = true
 [submodule "available/display_modpack"]
 	path = display_modpack
 	url = https://github.com/pyrollo/display_modpack.git
+	shallow = true
 [submodule "available/drawers"]
 	path = drawers
 	url = https://github.com/minetest-mods/drawers.git
+	shallow = true
 [submodule "available/easyvend"]
 	path = easyvend
 	url = https://repo.or.cz/minetest_easyvend.git
+	shallow = true
 [submodule "available/ehlphabet"]
 	path = ehlphabet
 	url = https://github.com/ehlodex/ehlphabet.git
+	shallow = true
 [submodule "available/elevator"]
 	path = elevator
 	url = https://github.com/shacknetisp/elevator.git
+	shallow = true
 [submodule "available/endless_apples"]
 	path = endless_apples
 	url = https://github.com/Ezhh/endless_apples.git
+	shallow = true
 [submodule "available/factory_bridges"]
 	path = factory_bridges
 	url = https://github.com/pandorabox-io/factory_bridges.git
+	shallow = true
 [submodule "available/farming"]
 	path = farming
 	url = https://notabug.org/TenPlus1/farming.git
+	shallow = true
 [submodule "available/farming_nextgen"]
 	path = farming_nextgen
 	url = https://github.com/berengma/farming_nextgen.git
+	shallow = true
 [submodule "available/font_botic"]
 	path = font_botic
 	url = https://github.com/pyrollo/font_botic.git
+	shallow = true
 [submodule "available/framedglass"]
 	path = framedglass
 	url = https://github.com/minetest-mods/framedglass.git
+	shallow = true
 [submodule "available/fsc"]
 	path = fsc
 	url = https://github.com/sofar/fsc.git
+	shallow = true
 [submodule "available/geocache"]
 	path = geocache
 	url = https://github.com/pandorabox-io/geocache.git
+	shallow = true
 [submodule "available/geoip"]
 	path = geoip
 	url = https://github.com/pandorabox-io/geoip.git
+	shallow = true
 [submodule "available/gravity_manager"]
 	path = gravity_manager
 	url = https://github.com/pandorabox-io/gravity_manager.git
+	shallow = true
 [submodule "available/guest_blocker"]
 	path = guest_blocker
 	url = https://github.com/thomasrudin-mt/guest_blocker.git
+	shallow = true
 [submodule "available/hangglider"]
 	path = hangglider
 	url = https://notabug.org/Piezo_/minetest-hangglider.git
+	shallow = true
 [submodule "available/hazmat_suit"]
 	path = hazmat_suit
 	url = https://github.com/pandorabox-io/hazmat_suit.git
+	shallow = true
 	branch = pandorabox
 [submodule "available/homedecor_modpack"]
 	path = homedecor_modpack
 	url = https://gitlab.com/VanessaE/homedecor_modpack.git
+	shallow = true
 [submodule "available/ilights"]
 	path = ilights
 	url = https://gitlab.com/VanessaE/ilights.git
+	shallow = true
 [submodule "available/inspector"]
 	path = inspector
 	url = https://github.com/minetest-mods/inspector.git
+	shallow = true
 [submodule "available/jumpdrive"]
 	path = jumpdrive
 	url = https://github.com/thomasrudin-mt/jumpdrive.git
+	shallow = true
 [submodule "available/jumping"]
 	path = jumping
 	url = https://github.com/minetest-mods/jumping.git
+	shallow = true
 [submodule "available/lag_warning"]
 	path = lag_warning
 	url = https://github.com/pandorabox-io/lag_warning.git
+	shallow = true
 [submodule "available/lavastone"]
 	path = lavastone
 	url = https://github.com/pandorabox-io/lavastone.git
+	shallow = true
 [submodule "available/lavastuff"]
 	path = lavastuff
 	url = https://github.com/LoneWolfHT/lavastuff.git
+	shallow = true
 [submodule "available/led_marquee"]
 	path = led_marquee
 	url = https://gitlab.com/VanessaE/led_marquee.git
+	shallow = true
 [submodule "available/letters"]
 	path = letters
 	url = https://github.com/minetest-mods/letters.git
+	shallow = true
 [submodule "available/locator"]
 	path = locator
 	url = https://git.rudin.io/minetest/locator.git
+	shallow = true
 [submodule "available/loot"]
 	path = loot
 	url = https://github.com/minetest-mods/loot.git
+	shallow = true
 [submodule "available/mail"]
 	path = mail
 	url = https://github.com/thomasrudin-mt/mail.git
+	shallow = true
 [submodule "available/mapserver"]
 	path = mapserver
 	url = https://github.com/minetest-tools/mapserver_mod.git
+	shallow = true
 [submodule "available/maptools"]
 	path = maptools
 	url = https://github.com/minetest-mods/maptools.git
+	shallow = true
 [submodule "available/mesecons"]
 	path = mesecons
 	url = https://github.com/minetest-mods/mesecons.git
+	shallow = true
 [submodule "available/mesecons_stealthnode"]
 	path = mesecons_stealthnode
 	url = https://github.com/acmgit/mesecons_stealthnode.git
+	shallow = true
 [submodule "available/mesecons_protected_button"]
 	path = mesecons_protected_button
 	url = https://github.com/pandorabox-io/mesecons_protected_button.git
+	shallow = true
 [submodule "available/mesecons_protected_switch"]
 	path = mesecons_protected_switch
 	url = https://github.com/pandorabox-io/mesecons_protected_switch.git
+	shallow = true
 [submodule "available/missions"]
 	path = missions
 	url = https://github.com/thomasrudin-mt/missions.git
+	shallow = true
 [submodule "available/mob_horse"]
 	path = mob_horse
 	url = https://notabug.org/TenPlus1/mob_horse.git
+	shallow = true
 [submodule "available/mobs"]
 	path = mobs
 	url = https://notabug.org/TenPlus1/mobs_redo.git
+	shallow = true
 [submodule "available/mobs_animal"]
 	path = mobs_animal
 	url = https://notabug.org/TenPlus1/mobs_animal.git
+	shallow = true
 [submodule "available/mobs_monster"]
 	path = mobs_monster
 	url = https://notabug.org/TenPlus1/mobs_monster.git
+	shallow = true
 [submodule "available/mobs_npc"]
 	path = mobs_npc
 	url = https://notabug.org/TenPlus1/mobs_npc.git
+	shallow = true
 [submodule "available/mobs_water"]
 	path = mobs_water
 	url = https://notabug.org/TenPlus1/mobs_water.git
+	shallow = true
 [submodule "available/mobs_xenomorph"]
 	path = mobs_xenomorph
 	url = https://github.com/pandorabox-io/mobs_xenomorph.git
+	shallow = true
 [submodule "available/moderator_armor"]
 	path = moderator_armor
 	url = https://github.com/pandorabox-io/moderator_armor.git
+	shallow = true
 [submodule "available/monitoring"]
 	path = monitoring
 	url = https://github.com/thomasrudin-mt/monitoring.git
+	shallow = true
 [submodule "available/monitoring_advtrains"]
 	path = monitoring_advtrains
 	url = https://github.com/thomasrudin-mt/monitoring_advtrains.git
+	shallow = true
 [submodule "available/monitoring_digtron"]
 	path = monitoring_digtron
 	url = https://github.com/thomasrudin-mt/monitoring_digtron.git
+	shallow = true
 [submodule "available/monitoring_mesecons"]
 	path = monitoring_mesecons
 	url = https://github.com/thomasrudin-mt/monitoring_mesecons.git
+	shallow = true
 [submodule "available/monitoring_pipeworks"]
 	path = monitoring_pipeworks
 	url = https://github.com/thomasrudin-mt/monitoring_pipeworks.git
+	shallow = true
 [submodule "available/monitoring_protection"]
 	path = monitoring_protection
 	url = https://github.com/thomasrudin-mt/monitoring_protection.git
+	shallow = true
 [submodule "available/monitoring_technic"]
 	path = monitoring_technic
 	url = https://github.com/thomasrudin-mt/monitoring_technic.git
+	shallow = true
 [submodule "available/moreblocks"]
 	path = moreblocks
 	url = https://github.com/minetest-mods/moreblocks.git
+	shallow = true
 [submodule "available/more_chests"]
 	path = more_chests
 	url = https://github.com/minetest-mods/more_chests.git
+	shallow = true
 [submodule "available/morelights"]
 	path = morelights
 	url = https://github.com/random-geek/morelights.git
+	shallow = true
 [submodule "available/moreores"]
 	path = moreores
 	url = https://github.com/minetest-mods/moreores.git
+	shallow = true
 [submodule "available/moretrees"]
 	path = moretrees
 	url = https://gitlab.com/VanessaE/moretrees.git
+	shallow = true
 [submodule "available/multitools"]
 	path = multitools
 	url = https://github.com/ChimneySwift/multitools.git
+	shallow = true
 [submodule "available/pandorabox_custom"]
 	path = pandorabox_custom
 	url = https://github.com/pandorabox-io/pandorabox_custom.git
+	shallow = true
 [submodule "available/pipeworks"]
 	path = pipeworks
 	url = https://github.com/pandorabox-io/pipeworks.git
+	shallow = true
 	branch = pandorabox
 [submodule "available/planet_mars"]
 	path = planet_mars
 	url = https://github.com/pandorabox-io/planet_mars.git
+	shallow = true
 [submodule "available/planet_moon"]
 	path = planet_moon
 	url = https://github.com/pandorabox-io/planet_moon.git
+	shallow = true
 [submodule "available/planetoidgen"]
 	path = planetoidgen
 	url = https://github.com/pandorabox-io/planetoidgen.git
+	shallow = true
 [submodule "available/planetoids"]
 	path = planetoids
 	url = https://github.com/pandorabox-io/planetoids.git
+	shallow = true
 [submodule "available/pontoons"]
 	path = pontoons
 	url = https://github.com/minetest-mods/pontoons.git
+	shallow = true
 [submodule "available/poshud"]
 	path = poshud
 	url = https://github.com/thomasrudin-mt/poshud.git
+	shallow = true
 [submodule "available/prefab"]
 	path = prefab
 	url = https://github.com/minetest-mods/prefab.git
+	shallow = true
 [submodule "available/priv_protector"]
 	path = priv_protector
 	url = https://git.rudin.io/minetest/priv_protector.git
+	shallow = true
 [submodule "available/protector"]
 	path = protector
 	url = https://github.com/pandorabox-io/protector.git
+	shallow = true
 [submodule "available/pvp_areas"]
 	path = pvp_areas
 	url = https://github.com/everamzah/pvp_areas.git
+	shallow = true
 [submodule "available/replacer"]
 	path = replacer
 	url = https://github.com/Sokomine/replacer.git
+	shallow = true
 [submodule "available/ropes"]
 	path = ropes
 	url = https://github.com/minetest-mods/ropes.git
+	shallow = true
 [submodule "available/scifi_nodes"]
 	path = scifi_nodes
 	url = https://github.com/D00Med/scifi_nodes.git
+	shallow = true
 [submodule "available/server_news"]
 	path = server_news
 	url = https://github.com/Ezhh/server_news.git
+	shallow = true
 [submodule "available/settime_throttle"]
 	path = settime_throttle
 	url = https://github.com/thomasrudin-mt/settime_throttle.git
+	shallow = true
 [submodule "available/signs_lib"]
 	path = signs_lib
 	url = https://gitlab.com/VanessaE/signs_lib.git
+	shallow = true
 [submodule "available/skinsdb"]
 	path = skinsdb
 	url = https://github.com/pandorabox-io/skinsdb.git
+	shallow = true
 	branch = pandorabox
 [submodule "available/skybox"]
 	path = skybox
 	url = https://github.com/pandorabox-io/skybox.git
+	shallow = true
 [submodule "available/sling"]
 	path = sling
 	url = https://github.com/minetest-mods/sling.git
+	shallow = true
 [submodule "available/smartshop"]
 	path = smartshop
 	url = https://github.com/pandorabox-io/smartshop.git
+	shallow = true
 	branch = pandorabox
 [submodule "available/soundblock"]
 	path = soundblock
 	url = https://github.com/thomasrudin-mt/soundblock.git
+	shallow = true
 [submodule "available/soundblock_scifi"]
 	path = soundblock_scifi
 	url = https://github.com/thomasrudin-mt/soundblock_scifi.git
+	shallow = true
 [submodule "available/spacecannon"]
 	path = spacecannon
 	url = https://github.com/pandorabox-io/spacecannon.git
+	shallow = true
 [submodule "available/spacesuit"]
 	path = spacesuit
 	url = https://github.com/thomasrudin-mt/spacesuit.git
+	shallow = true
 [submodule "available/spawn_command"]
 	path = spawn_command
 	url = https://github.com/minetest-mods/spawn_command.git
+	shallow = true
 [submodule "available/stained_glass"]
 	path = stained_glass
 	url = https://github.com/andersje/stained_glass.git
+	shallow = true
 [submodule "available/stamina"]
 	path = stamina
 	url = https://github.com/pandorabox-io/stamina.git
+	shallow = true
 [submodule "available/technic"]
 	path = technic
 	url = https://github.com/pandorabox-io/technic.git
+	shallow = true
 	branch = pandorabox
 [submodule "available/technic_armor"]
 	path = technic_armor
 	url = https://github.com/stujones11/technic_armor.git
+	shallow = true
 [submodule "available/technicmetrics"]
 	path = technicmetrics
 	url = https://github.com/thomasrudin-mt/technicmetrics.git
+	shallow = true
 [submodule "available/telemosaic"]
 	path = telemosaic
 	url = https://github.com/pandorabox-io/telemosaic.git
+	shallow = true
 [submodule "available/textline"]
 	path = textline
 	url = https://github.com/gbl08ma/textline.git
+	shallow = true
 [submodule "available/throwing"]
 	path = throwing
 	url = https://github.com/minetest-mods/throwing.git
+	shallow = true
 [submodule "available/throwing_arrows"]
 	path = throwing_arrows
 	url = https://github.com/minetest-mods/throwing_arrows.git
+	shallow = true
 [submodule "available/toolranks"]
 	path = toolranks
 	url = https://github.com/lisacvuk/minetest-toolranks.git
+	shallow = true
 [submodule "available/travelnet"]
 	path = travelnet
 	url = https://github.com/Sokomine/travelnet.git
+	shallow = true
 [submodule "available/unified_inventory"]
 	path = unified_inventory
 	url = https://github.com/thomasrudin-mt/unified_inventory.git
+	shallow = true
 [submodule "available/unified_inventory_plus"]
 	path = unified_inventory_plus
 	url = https://github.com/bousket/unified_inventory_plus.git
+	shallow = true
 [submodule "available/unifiedbricks"]
 	path = unifiedbricks
 	url = https://github.com/minetest-mods/unifiedbricks.git
+	shallow = true
 [submodule "available/unifieddyes"]
 	path = unifieddyes
 	url = https://gitlab.com/VanessaE/unifieddyes.git
+	shallow = true
 [submodule "available/vacuum"]
 	path = vacuum
 	url = https://github.com/thomasrudin-mt/vacuum.git
+	shallow = true
 [submodule "available/vines"]
 	path = vines
 	url = https://github.com/bas080/vines.git
+	shallow = true
 [submodule "available/warzone"]
 	path = warzone
 	url = https://github.com/pandorabox-io/warzone.git
+	shallow = true
 [submodule "available/wine"]
 	path = wine
 	url = https://notabug.org/TenPlus1/wine.git
+	shallow = true
 [submodule "available/woodcutting"]
 	path = woodcutting
 	url = https://github.com/minetest-mods/woodcutting.git
+	shallow = true
 [submodule "available/WorldEdit"]
 	path = WorldEdit
 	url = https://github.com/Uberi/Minetest-WorldEdit.git
+	shallow = true
 [submodule "available/xban2"]
 	path = xban2
 	url = https://github.com/minetest-mods/xban2.git
+	shallow = true
 [submodule "available/xp_redo"]
 	path = xp_redo
 	url = https://github.com/thomasrudin-mt/xp_redo.git
+	shallow = true
 [submodule "available/xp_redo_ranks_ores"]
 	path = xp_redo_ranks_ores
 	url = https://github.com/thomasrudin-mt/xp_redo_ranks_ores.git
+	shallow = true
 [submodule "available/fancy_vend"]
 	path = fancy_vend
 	url = https://github.com/ChimneySwift/fancy_vend.git
+	shallow = true
 [submodule "available/basic_materials"]
 	path = basic_materials
 	url = https://gitlab.com/VanessaE/basic_materials.git
+	shallow = true
 [submodule "available/tpr"]
 	path = tpr
 	url = https://github.com/ChaosWormz/teleport-request
+	shallow = true
 [submodule "available/hidden_doors"]
 	path = hidden_doors
 	url = https://github.com/pandorabox-io/hidden_doors.git
+	shallow = true
 [submodule "available/auth_proxy_mod"]
 	path = auth_proxy_mod
 	url = https://github.com/thomasrudin-mt/auth_proxy_mod
+	shallow = true
 [submodule "available/stairs"]
 	path = stairs
 	url = https://notabug.org/TenPlus1/stairs.git
+	shallow = true
 [submodule "available/atm"]
 	path = atm
 	url = https://github.com/pandorabox-io/atm.git
+	shallow = true
