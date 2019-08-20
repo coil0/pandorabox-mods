@@ -144,7 +144,8 @@
 	url = https://github.com/pandorabox-io/geoip.git
 [submodule "available/gravity_manager"]
 	path = gravity_manager
-	url = https://github.com/pandorabox-io/gravity_manager.git
+	url = https://github.com/coil0/gravity_manager.git
+	branch = gravity-monoid
 [submodule "available/guest_blocker"]
 	path = guest_blocker
 	url = https://github.com/thomasrudin-mt/guest_blocker.git
@@ -277,7 +278,8 @@
 	url = https://github.com/ChimneySwift/multitools.git
 [submodule "available/pandorabox_custom"]
 	path = pandorabox_custom
-	url = https://github.com/pandorabox-io/pandorabox_custom.git
+	url = https://github.com/coil0/pandorabox_custom.git
+	branch = fly-monoid
 [submodule "available/pipeworks"]
 	path = pipeworks
 	url = https://github.com/pandorabox-io/pipeworks.git
@@ -459,3 +461,9 @@
 [submodule "locator"]
 	path = locator
 	url = https://github.com/pandorabox-io/locator.git
+[submodule "player_monoids"]
+	path = player_monoids
+	url = https://github.com/minetest-mods/player_monoids.git
+[submodule "armor_monoid"]
+	path = armor_monoid
+	url = https://github.com/minetest-mods/armor_monoid.git
